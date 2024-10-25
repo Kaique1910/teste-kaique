@@ -13,4 +13,9 @@ body{
         padding: 20px;   /*espaço-interno do elemento : 20pixels*/
         font-size: 32px;   /*tamanho da fonte : 32pixels*/
         color: rgb(42, 122, 228);  /*cor-da-fonte-texto: cor-padrao-rgb*/
-                        
+        /*cor-da-fone-texto: cor-padrão-rgb*/
+    }
+
+    section {
+       background: rgb(red, green, blue)
+    }
